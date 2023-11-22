@@ -1,0 +1,14 @@
+C:\Users\Support\source\repos\BIT.Joseph.Udoka\BIT.Joseph.Udoka\obj\Debug\net8.0\BIT.Joseph.Udoka.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Support\source\repos\BIT.Joseph.Udoka\BIT.Joseph.Udoka\obj\Debug\net8.0\BIT.Joseph.Udoka.AssemblyInfoInputs.cache
+C:\Users\Support\source\repos\BIT.Joseph.Udoka\BIT.Joseph.Udoka\obj\Debug\net8.0\BIT.Joseph.Udoka.AssemblyInfo.cs
+C:\Users\Support\source\repos\BIT.Joseph.Udoka\BIT.Joseph.Udoka\obj\Debug\net8.0\BIT.Joseph.Udoka.csproj.CoreCompileInputs.cache
+C:\Users\Support\source\repos\BIT.Joseph.Udoka\BIT.Joseph.Udoka\bin\Debug\net8.0\BIT.Joseph.Udoka.exe
+C:\Users\Support\source\repos\BIT.Joseph.Udoka\BIT.Joseph.Udoka\bin\Debug\net8.0\BIT.Joseph.Udoka.deps.json
+C:\Users\Support\source\repos\BIT.Joseph.Udoka\BIT.Joseph.Udoka\bin\Debug\net8.0\BIT.Joseph.Udoka.runtimeconfig.json
+C:\Users\Support\source\repos\BIT.Joseph.Udoka\BIT.Joseph.Udoka\bin\Debug\net8.0\BIT.Joseph.Udoka.dll
+C:\Users\Support\source\repos\BIT.Joseph.Udoka\BIT.Joseph.Udoka\bin\Debug\net8.0\BIT.Joseph.Udoka.pdb
+C:\Users\Support\source\repos\BIT.Joseph.Udoka\BIT.Joseph.Udoka\obj\Debug\net8.0\BIT.Joseph.Udoka.dll
+C:\Users\Support\source\repos\BIT.Joseph.Udoka\BIT.Joseph.Udoka\obj\Debug\net8.0\refint\BIT.Joseph.Udoka.dll
+C:\Users\Support\source\repos\BIT.Joseph.Udoka\BIT.Joseph.Udoka\obj\Debug\net8.0\BIT.Joseph.Udoka.pdb
+C:\Users\Support\source\repos\BIT.Joseph.Udoka\BIT.Joseph.Udoka\obj\Debug\net8.0\BIT.Joseph.Udoka.genruntimeconfig.cache
+C:\Users\Support\source\repos\BIT.Joseph.Udoka\BIT.Joseph.Udoka\obj\Debug\net8.0\ref\BIT.Joseph.Udoka.dll
