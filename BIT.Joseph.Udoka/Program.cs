@@ -10,7 +10,7 @@ namespace BIT.Joseph.Udoka
             double h = Convert.ToDouble(Console.ReadLine());
             Console.WriteLine("This is the height of the triangle: " + h);
 
-            Console.WriteLine("Input the height of the Triangle");
+            Console.WriteLine("Input the base of the Triangle");
             double b = Convert.ToDouble(Console.ReadLine());
             Console.WriteLine("This is the base of the triangle: " + b);
 
